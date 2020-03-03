@@ -1,0 +1,24 @@
+.h_app{
+    width:100vw;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.h_mid{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    width:600px;
+    height:200px;
+    flex-direction: column;
+}
+
+.h_q{
+    font-size: 18pt;
+}
+
+.flexed{
+    margin:10px;
+}

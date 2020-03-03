@@ -1,0 +1,30 @@
+.healthbar{
+    border:2px solid black;
+    width:200px;
+    height:50px;
+    position:fixed; 
+}
+
+.healthbar_percent{
+    background-color:red;
+    width:100%;
+    height:50px;
+    position:relative;
+    border-right: 2px solid black;
+}
+
+.healthbar_percent_name{
+    margin: 15;
+}
+
+button{
+    width:125px;
+    height:25px;
+    margin-bottom:10px;
+    cursor: pointer; 
+}
+
+.header{
+    font-family:"SuperPlumberBrothers";
+    font-size:45pt;
+}
